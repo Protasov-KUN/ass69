@@ -21,10 +21,7 @@ int main()
     puts("var: int d");
     printf("d: %i\n", d);
     
-    printf("a+d: %i\n", a+d);
-    
-
-    printf("a+c: %i\n", a+c);
+    printf("a+c+d: %i\n", a+c+d);
 
     return 0;
 }
